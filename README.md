@@ -35,7 +35,7 @@ public class Creative {
 
 ## 🔗 Digital Presence
 
-🎧 **Listen:** [SoundCloud/x5gtrn](https://soundcloud.com/x5gtrn) - Mixes, WIP tracks, future releases  
+🎧 **Listen:** [DJ Ekusi on SoundCloud](https://soundcloud.com/x5gtrn) - Mixes, WIP tracks, future releases  
 📝 **Process:** [2025 Production Roadmap](https://scrapbox.io/x5gtrn) - Real-time creative documentation  
 🤖 **Experiment:** [daisuke.masuda.tokyo](https://daisuke.masuda.tokyo) - AI-driven auto-updating articles for my learning and to share
 
