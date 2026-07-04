@@ -10,8 +10,8 @@ Bridging code and beats since the dial-up era.
 
 ## **🚀 Now Building**
 
-**Engineering:** 21+ years crafting Java solutions, full-stack problem solving, automation everything
-**Music:** 22+ years behind the decks — vinyl foundations → Traktor Pro mastery (decade+) → 2026: will be **active producer**
+**Engineering:** 22+ years crafting Java solutions, full-stack problem solving, automation everything
+**Music:** 24+ years behind the decks — vinyl foundations → Traktor Pro mastery (decade+) → 2026: will be **active producer**
 
 Currently channeling my systematic engineering mindset into hypnotic techno production. From analog precision to digital control to original creation — every evolution builds on systematic thinking.
 
