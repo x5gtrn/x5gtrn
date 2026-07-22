@@ -1,4 +1,4 @@
-# 🎛️ Daisuke Masuda — code × sound × word
+# 🎛️ Daisuke Masuda — Code × Sound × Word (Japanese native)
 
 **Software Developer and Techno DJ/Producer**
 
@@ -6,7 +6,7 @@ I've been bridging code and beats since the dial-up era.
 
 ---
 
-### 🚀 Now Building
+### 🚀 What I Do
 
 - **Engineering**: 22+ years' experience crafting Java solutions and solving full-stack problems, with a focus on automation.
 - **Music**: 24+ years behind the decks — from vinyl foundations to Traktor Pro mastery — now expanding into music production.
