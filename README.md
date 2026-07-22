@@ -20,10 +20,10 @@ I am currently channelling my systematic engineering mindset into producing hypn
 
 ### 🔗 Digital Presence
 
-- 🎧 **[My style of music](https://soundcloud.com/x5gtrn)**: Mixes, WIP tracks, future releases.
-- 📝 **[Everything is ready](https://scrapbox.io/x5gtrn)**: My Introduction, Roadmap, and equipment.
+- 🎧 **[My style of music](https://soundcloud.com/x5gtrn)**: Mixes, WIP tracks, and future releases.
+- 📝 **[Behind the scenes](https://scrapbox.io/x5gtrn)**: My introduction, creative roadmap, and equipment.
 - 🤖 **[Self-Learning](https://daisuke.masuda.tokyo)**: AI-assisted, self-updating articles that I review and share as part of my learning process.
-- 📖 **[What is Today I Learned?](https://github.com/x5gtrn/TIL)**: (Since February 2026)
+- 📖 **[Today I Learned](https://github.com/x5gtrn/TIL)**: Notes and discoveries collected since February 2026.
 
 ---
 
