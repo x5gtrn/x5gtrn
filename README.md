@@ -2,16 +2,16 @@
 
 **Software Developer and Techno DJ/Producer**
 
-Bridging code and beats since the dial-up era.
+I've been bridging code and beats since the dial-up era.
 
 ---
 
 ### 🚀 Now Building
 
-- **Engineering**: 22+ years crafting Java solutions, full-stack problem solving, automation everything.
-- **Music**: 24+ years behind the decks — vinyl foundations → Traktor Pro mastery → 2026: active producer.
+- **Engineering**: 22+ years' experience crafting Java solutions and solving full-stack problems, with a focus on automation.
+- **Music**: 24+ years' experience behind the decks — from vinyl foundations to Traktor Pro mastery — and now an active producer since 2026.
 
-Currently channeling my systematic engineering mindset into hypnotic techno production. Every evolution builds on systematic thinking.
+I am currently channelling my systematic engineering mindset into producing hypnotic techno. Every evolution builds on systematic thinking.
 
 ### 🎵 Musical DNA
 
@@ -22,9 +22,10 @@ Currently channeling my systematic engineering mindset into hypnotic techno prod
 
 - 🎧 **[My style of music](https://soundcloud.com/x5gtrn)**: Mixes, WIP tracks, future releases.
 - 📝 **[Everything is ready](https://scrapbox.io/x5gtrn)**: My Introduction, Roadmap, and equipment.
-- 🤖 **[Self-Learning](https://daisuke.masuda.tokyo)**: AI-driven auto-updating articles for my learning and to share.
+- 🤖 **[Self-Learning](https://daisuke.masuda.tokyo)**: AI-driven, self-updating articles for my own learning and to share, with my review.
 - 📖 **[What is Today I Learned?](https://github.com/x5gtrn/TIL)**: (Since February 2026)
 
 ---
 
-  From Japan with ❤️ Still that computer kid at heart.
+  Still that computer kid at heart, even from Japan with ❤️. (I no longer live in Tokyo.)
+  
