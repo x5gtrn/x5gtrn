@@ -9,9 +9,9 @@ I've been bridging code and beats since the dial-up era.
 ### 🚀 Now Building
 
 - **Engineering**: 22+ years' experience crafting Java solutions and solving full-stack problems, with a focus on automation.
-- **Music**: 24+ years' experience behind the decks — from vinyl foundations to Traktor Pro mastery — and now an active producer since 2026.
+- **Music**: 24+ years behind the decks — from vinyl foundations to Traktor Pro mastery — now expanding into music production.
 
-I am currently channelling my systematic engineering mindset into producing hypnotic techno. Every evolution builds on systematic thinking.
+I am currently channelling my systematic engineering mindset into producing hypnotic techno.
 
 ### 🎵 Musical DNA
 
