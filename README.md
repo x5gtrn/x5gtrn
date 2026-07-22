@@ -22,10 +22,10 @@ I am currently channelling my systematic engineering mindset into producing hypn
 
 - 🎧 **[My style of music](https://soundcloud.com/x5gtrn)**: Mixes, WIP tracks, future releases.
 - 📝 **[Everything is ready](https://scrapbox.io/x5gtrn)**: My Introduction, Roadmap, and equipment.
-- 🤖 **[Self-Learning](https://daisuke.masuda.tokyo)**: AI-driven, self-updating articles for my own learning and to share, with my review.
+- 🤖 **[Self-Learning](https://daisuke.masuda.tokyo)**: AI-assisted, self-updating articles that I review and share as part of my learning process.
 - 📖 **[What is Today I Learned?](https://github.com/x5gtrn/TIL)**: (Since February 2026)
 
 ---
 
-  Still that computer kid at heart, even from Japan with ❤️. (I no longer live in Tokyo.)
+  Still that computer kid at heart ❤️
   
